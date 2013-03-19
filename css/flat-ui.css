@@ -313,9 +313,6 @@ h6 {
   .demo-logo .logo {
     background: url("../img/sitelogo.png") center 0 no-repeat;
     background-size: 160px 160px;
-    height: 190px;
-    background: url("../images/demo/logo-mask.png") center 0 no-repeat;
-    background-size: 256px 186px;
     height: 186px;
     margin: 0 auto 26px;
     overflow: hidden;
