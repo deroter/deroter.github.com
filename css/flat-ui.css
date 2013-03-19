@@ -311,9 +311,15 @@ h6 {
   letter-spacing: -2px;
   line-height: 100px; }
   .demo-logo .logo {
+<<<<<<< HEAD
     background: url("../img/sitelogo.png") center 0 no-repeat;
     background-size: 160px 160px;
     height: 190px;
+=======
+    background: url("../images/demo/logo-mask.png") center 0 no-repeat;
+    background-size: 256px 186px;
+    height: 186px;
+>>>>>>> parent of ee825dd... ブランチ切った
     margin: 0 auto 26px;
     overflow: hidden;
     text-indent: -9999em;
