@@ -1,20 +1,50 @@
 deroter.github.com
 ==================
 
-# このページについて
+# このリポジトリについて
 
-このページはGitHubPageの練習用件自分の遊び場として作ったものです。
+このページはGitHubPageの練習用件自分の遊び場として作ったものですが、GitHubPageは仕様変わってそのまま使うということはなくなったので、自分で作った色々なものを公開するための倉庫として使っています。
 
-なのでまあ、あれです。あれ。
+もちろん雑多な感じになっているので、ここだけみても意味がありません。Sketch用が多いのも特徴。
 
-追記　2013.11.17 このGitHubPageは物置みたいなもので、全く整理されておりません。
+あしからず。
 
-## これから
+## 公開している物
 
-気が向いたときに気が向いたことをやる。
+- Flatuicolor
+- social-icon
+- social_basetamplate
+- line-creaters-market-base
+- Social-Button-jp.sketch
 
-そんなゆるゆるな運用にしようと思っております。
+### Flatuicolor
 
-### マークダウン
+Flat UI Colorが流行った時に作ったFlat UI Colorでよく使われている色をまとめたファイル。
 
-ここはまーくだうんでかけるからいいね！
+Sketch版とPowerPoint用がある。
+
+### social-icon
+
+各ソーシャルサイトのアイコン集。
+
+全部公式で公開されているベクターデータなので、使用する場合はライセンスを確認してね。
+
+Sketch用
+
+### social_basetamplate
+
+ソーシャルサイトのカバー画像などのサイズ一覧。
+
+Sketch用
+
+### line-creaters-market-base
+
+Lineのクリエーターズマーケットでアイコンを開発するためのベーステンプレート。
+
+こちらはFireWorks用
+
+### Social-Button-jp.sketch
+
+ソーシャルボタンをサイトに埋め込んだ時の表示を再現するためのダミー。
+
+Sketch用
